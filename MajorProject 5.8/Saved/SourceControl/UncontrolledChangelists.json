@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Interfaces/Grab.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Blueprints/Lever.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Blueprints/Beer.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Blueprints/Stein.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Blueprints/Beer_Colour.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Blueprints/Full_Stein.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Fab/Ultimate_glass_pack/the_ultimate_glass_pack_cups_and_bottles/Materials/Material.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Fab/Ultimate_glass_pack/the_ultimate_glass_pack_cups_and_bottles/Materials/Material_001.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Fab/Wooden_Mug/beer_mug/Materials/TT_checker_1024x1024_COLOR_GRID.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Fab/Wooden_Mug/beer_mug/StaticMeshes/beer_mug.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Fab/Wooden_Mug/beer_mug/Textures/beer_mug_texture_0.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Fab/Wooden_Mug/beer_mug/Textures/beer_mug_texture_1.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Fab/Wooden_Mug/beer_mug/Textures/beer_mug_texture_2.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Fab/Ultimate_glass_pack/the_ultimate_glass_pack_cups_and_bottles/StaticMeshes/the_ultimate_glass_pack_cups_and_bottles.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Fab/Ultimate_glass_pack/the_ultimate_glass_pack_cups_and_bottles/Textures/the_ultimate_glass_pack_cups_and_bottles_texture_0.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Fab/Ultimate_glass_pack/the_ultimate_glass_pack_cups_and_bottles/Textures/the_ultimate_glass_pack_cups_and_bottles_texture_1.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Fab/Ultimate_glass_pack/the_ultimate_glass_pack_cups_and_bottles/Textures/the_ultimate_glass_pack_cups_and_bottles_texture_2.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Fab/Ultimate_glass_pack/the_ultimate_glass_pack_cups_and_bottles/Textures/the_ultimate_glass_pack_cups_and_bottles_texture_3.uasset",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Fab/Ultimate_glass_pack/the_ultimate_glass_pack_cups_and_bottles/Textures/the_ultimate_glass_pack_cups_and_bottles_texture_4.uasset",
+				"C:/Users/Gamer/Documents/GitHub/Major-Project/MajorProject 5.8/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"C:/Users/Gamer/Documents/GitHub/Major-Project/MajorProject 5.8/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Fab/Wooden_Mug/beer_mug/StaticMeshes/beer_mug_Full.uasset"
+			]
+		}
+	]
+}
