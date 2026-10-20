@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/b00927820/Documents/GitHub/Major-Project/MajorProject 5.8/Content/Blueprints/bpi_drinkInteractions.uasset",
+				"C:/Users/b00927820/Documents/GitHub/Major-Project/MajorProject 5.8/Content/Blueprints/Lever.uasset",
+				"C:/Users/b00927820/Documents/GitHub/Major-Project/MajorProject 5.8/Content/Blueprints/Stein.uasset",
 				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Interfaces/Grab.uasset",
 				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/Blueprints/Lever.uasset",
 				"C:/Users/Gamer/Documents/Unreal Projects/MajorProject/Content/VRTemplate/Blueprints/VRPawn.uasset",
