@@ -73,3 +73,7 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/MajorProject 5.8/Intermediate
+/MajorProject 5.8/DerivedDataCache
+/MajorProject 5.8/Saved
+/MajorProject 5.8/Intermediate
